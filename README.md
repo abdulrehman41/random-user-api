@@ -1,4 +1,4 @@
-# Laravel Swagger
+# RANDOM USER API
 ## System Requirements
 ```
 php: ^8.1
